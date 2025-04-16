@@ -1,0 +1,1 @@
+ D:\\GitHub\\oceankabab\\gas2go_app\\.dart_tool\\flutter_build\\3b36ab02228bc7cdda77cd2362d755bf\\native_assets.yaml: 

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "945898335090",
+    "project_id": "gas2go-c4bee",
+    "storage_bucket": "gas2go-c4bee.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945898335090:android:b7865e6be20f8726ac4beb",
+        "android_client_info": {
+          "package_name": "com.example.gas2go_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5WroJjEZRDqoFI-NSHRvcnzL4J5e1r68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
